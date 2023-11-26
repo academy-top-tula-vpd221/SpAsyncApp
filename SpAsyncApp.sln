@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpAsyncApp", "SpAsyncApp\SpAsyncApp.csproj", "{357DB098-6CEA-4B71-BF69-56368B6DE183}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{357DB098-6CEA-4B71-BF69-56368B6DE183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{357DB098-6CEA-4B71-BF69-56368B6DE183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{357DB098-6CEA-4B71-BF69-56368B6DE183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{357DB098-6CEA-4B71-BF69-56368B6DE183}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F35FD266-9D23-4580-AB89-81722648E6A4}
+	EndGlobalSection
+EndGlobal
